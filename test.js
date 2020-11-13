@@ -5,3 +5,5 @@ var a = 1;
 
 //feature 2 - 1
 //feature 2 - 2
+
+//hotfix 1
