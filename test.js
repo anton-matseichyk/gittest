@@ -22,5 +22,6 @@ var a = 1;
 //interim-feature 2
 
 //interim-squash-feature 1
+//interim-squash-feature 2
 
 
